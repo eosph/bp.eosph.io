@@ -1,31 +1,31 @@
-{
-  "producer_account_name": "",
-  "producer_public_key": "",
+﻿{
+  "producer_account_name": "philippinebp",
+  "producer_public_key": "EOS76UAdwK6qUcYH7BkxczdQn1KykW6ujKkF6dmJw6HiCx8Sp3sMb",
   "org": {
-    "candidate_name": "",
-    "website": "",
-    "code_of_conduct":"",
-    "email":"",
+    "candidate_name": "EOS PH",
+    "website": "https://www.eosph.io/",
+    "code_of_conduct":"https://www.eosph.io/#roadmap",
+    "email":"info@eosph.io",
     "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_256":"https://www.eosph.io/s/eos256x256PNG.png",
+      "logo_1024":"https://www.eosph.io/s/eos1024x1024PNG.png",
+      "logo_svg":"https://www.eosph.io/s/eos_SVG-myag.svg"
     },
     "location": {
-      "name": "",
-      "country": "",
-      "latitude": 0,
-      "longitude": 0
+      "name": "Makati City, Philippines",
+      "country": "PH",
+      "latitude": 14.5608919,
+      "longitude": 121.0167559
     },
     "social": {
-      "steemit": "",
+      "steemit": "eosph",
       "twitter": "",
       "youtube": "",
       "facebook": "",
       "github":"",
       "reddit": "",
-      "keybase": "",
-      "telegram": "",
+      "keybase": "eosph",
+      "telegram": "eos_ph",
       "wechat":""
     }
   },
@@ -51,7 +51,7 @@
       },
       "is_producer": true,
       "p2p_endpoint": "",
-      "api_endpoint": "",
+      "api_endpoint": "http://api.eosph.io",
       "ssl_endpoint": ""
     }
   ]
